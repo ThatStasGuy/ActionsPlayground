@@ -4,4 +4,3 @@ VAR="ABC"
 
 echo "Test Script"
 
-echo `echo $1`
