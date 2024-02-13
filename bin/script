@@ -4,4 +4,4 @@ VAR="ABC"
 
 echo "Test Script"
 
-echo $VAR
+echo `echo $1`
