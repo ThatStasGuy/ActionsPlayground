@@ -1,13 +1,3 @@
 #!/bin/bash
 
-VAR="ABC"
-VAR1=""
-
-echo "$VAR1"
-echo "Test Script"
-
-echo `echo $VAR`
-
-[[ "0" > 0 ]] && echo "Fail"
-
-[[ ! -z "" ]] && echo "Fail"
+echo "Testscript"
