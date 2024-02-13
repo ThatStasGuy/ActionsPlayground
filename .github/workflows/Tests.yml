@@ -14,4 +14,4 @@ jobs:
     - name: Install dependencies
       run: sudo apt-get update && DEBIAN_FRONTEND=noninteractive sudo apt-get -y install shellcheck
     - name: Run shellcheck
-      run: shellcheck -s bash -S warning ec2-metadata ec2nvme-nsid ec2udev-vbd
+      run: shellcheck -s bash -S warning bin/*
