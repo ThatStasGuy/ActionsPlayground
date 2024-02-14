@@ -1,0 +1,1 @@
+[![Run Tests](https://github.com/ThatStasGuy/ActionsPlayground/actions/workflows/run-tests.yml/badge.svg?branch=main&event=workflow_run)](https://github.com/ThatStasGuy/ActionsPlayground/actions/workflows/run-tests.yml)
