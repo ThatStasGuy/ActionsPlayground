@@ -4,7 +4,7 @@
 .PHONY: pass sources clean
 
 pass:
-	bash ./bin/script pass	
+	bash ./bin/script 	
 
 sources:
 	mkdir -p output
