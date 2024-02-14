@@ -1,7 +1,7 @@
 
 sources:
 	mkdir -p output
-	tar czf ActionsPlayground.tar.gz bin
+	tar czf output/ActionsPlayground.tar.gz bin
 
 clean:
 	rm -rf output
